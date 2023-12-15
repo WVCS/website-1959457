@@ -1,0 +1,26 @@
+<html> 
+  <head>
+    <link rel = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ua1oOOKw63f3bqIzWtGjn_IySZpvFNPeit3G1MguCeVtEMjBxbjQDaH-v4cgQ_VxvPo:https://www.springboard.com/blog/wp-content/uploads/2022/06/coding-.png&usqp=CAU">
+    <title> sarah's coding projects </title>
+    </link>
+  </head>
+  <body>
+    <ul>
+  
+      <li><a href = ""> Home </a> </li>
+      <li><a href = ""> Sarah's Apps </a> <li>
+      <li><a href = ""> What is CSP?</a> </li>
+      </ul>
+      <br>
+    <center>
+    <h1> All About Me - Sarah Youssef </h1>
+    <p> Hello! My name is Sarah Youssef and I am a junior at Westview Highschool. I took my first coding class in middle school and instantly loved it which is part of the reason why I really wanted to take this class. When I am not in school you can usually find me on the basketball court. I have been playing since seventh grade and love the sport. I also love to be in the kitchen whether that means baking breads and cakes or cooking up dinner. Lastly, I am a student journalist have been for about a year. I work with PBS's Student Reporting Labs and they have given me many oppurtunites like various fellowships and internships.</p>
+      <br>
+      <br>
+    <img src = "https://assets.studentreportinglabs.org/uploads/2023/10/23134809/24_Sarah-Youssef-300x300.jpg"> </img>
+    
+    <br>
+    <iframe width="392" height="620" style="border: 0px;"> </iframe>
+    </center>
+  </body>
+</html>
