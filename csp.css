@@ -1,0 +1,41 @@
+body{
+  background-color: #89B0AE; 
+}
+h1{
+  font-size: 430%;
+  letter-spacing: 5px;
+  color: #2B3434;
+  text-decoration
+  text-decoration-color: #2C5F38;
+  font-family: Courier New;
+}
+p{
+  font-size: 230%;
+  font-family: Monaco;
+  color: #555B6E;
+  letter-spacing: 2px;
+  line-height: 2;
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+  position: fixed;
+  
+}
+li{
+  float: left;
+}
+li a{
+  padding: 20px;
+  text-decoration: none;
+}
+li a:hover{
+  background-color: #BEE3DB;
+}
+p1{
+  font-size: 200%;
+  font-family: Monaco;
+  color: #204B57;
+  letter-spacing: 2px;
+  line-height: 2;
+}
